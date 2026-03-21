@@ -1,10 +1,10 @@
 # Actividad Aprendizaje Profundo
 ### Asignatura: Aprendizaje Automático II
 Autores:
-- Oliver Arnaldo Anderson Llorens (@alumnos.upm.es)
-- Alejandro Escorial Aparicio (alejandro.escorial@alumnos.upm.es)
-- Diego Mateo Fernández (@alumnos.upm.es)
-- Pablo Tsang Chang (@alumnos.upm.es)
+- Pablo Tsang (pablo.tsang@alumnos.upm.es)
+- Alejandro Escorial (alejandro.escorial@alumnos.upm.es)
+- Oliver Arnaldo Anderson (oliver.anderson@alumnos.upm.es)
+- Diego Mateo (diego.mateofer@alumnos.upm.es)
 
 ### Objetivos:
 Seguir el proceso de construcción de una red de neuronas profunda para resolver un problema de clasificación usando un conjunto de datos de jugadores de fútbol de FIFA19 para estimar la calidad global de los jugadores a partir de sus características.
